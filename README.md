@@ -1,2 +1,2 @@
-# draft-andersson-mpls-open-dt-questions-01
+# draft-andersson-mpls-open-dt-questions
 MPLS Open Design Team Questions
